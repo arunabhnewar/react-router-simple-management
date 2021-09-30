@@ -1,0 +1,15 @@
+.single-employee-container{
+    background-color: #40407a;
+    height: 100vh;
+}
+.employee-name{
+    color: brown;
+    font-size: 24px;
+    font-weight: 700;
+}
+.employee-info {
+    color: orange;
+    font-size: 20px;
+    margin: 0;
+    font-weight: 600;
+}
